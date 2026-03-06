@@ -32,7 +32,7 @@ Stellar Burger (Redux Store)
 - Авторизация и редактирование данных пользователя;
 - Конструктор бургеров с динамическим расчётом стоимости;
 - Модальные окна для ингредиентов и заказов.
-**Технологии:** React, Redux Toolkit, TypeScript, React Router, REST API, Git 
+  **Технологии:** React, Redux Toolkit, TypeScript, React Router, REST API, Git 
 - **Code:** (https://github.com/gothelph/stellar-burgers);
 ---
 
