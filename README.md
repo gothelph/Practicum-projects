@@ -56,8 +56,8 @@ npm start
 
 ## КОНТАКТЫ
 
-Email: zaknafein.dourden@mail.ru
+
 Telegram: @gothelph
-Резюме: [ссылка на hh.ru](https://hh.ru/resume/61cdff62ff103395a60039ed1f4a694b595a41)
+
 
 > > > > > > > master
