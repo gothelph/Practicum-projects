@@ -33,7 +33,7 @@
 1. Клонировать репозиторий:
 
 ```
-git clone https://github.com/your-username/Practicum_projects.git
+git clone https://github.com/gothelph/Practicum-projects.git
 ```
 
 2. Перейти в папку нужного проекта
