@@ -1,0 +1,18 @@
+.page.theme_dark {
+  --text-color: #000028;
+  --accent-color: #ff0070;
+  --rec-color: var(--accent-color);
+  --bg-color: var(--text-color);
+  --bg-image: url(../images/cover-image-dark.png);
+  --main-text-color: #f1b2ce;
+  --title-color: #db00ff;
+  --title-shadow: var(--accent-color);
+  --text-box-bg-color: var(--accent-color);
+  --text-box-color: var(--text-color);
+  --section-title-color: var(--accent-color);
+  --hover-color: rgb(250, 0, 112, 40%);
+  --focus-color: var(--accent-color);
+  --article-title-color: var(--text-color);
+  --corner-color: var(--accent-color);
+  --display-header-rec: initial;
+}
